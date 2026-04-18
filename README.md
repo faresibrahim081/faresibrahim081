@@ -24,13 +24,34 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="60"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 </p>
+
+<h3 align="left">State & Data:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+<h3 align="left">Styling:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" />
+</p>
+
+<h3 align="left">Tools:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,npm" />
+</p>
+
+<h3 align="left">Other:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
+<p>
+  Redux Thunk • Context API • React Query • Axios
+</p>
+<h6>🚀 I build scalable dashboards and data-driven web applications using React & Next.js</p>
